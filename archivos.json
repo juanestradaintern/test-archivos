@@ -1,0 +1,194 @@
+[
+  {
+    "archivo": "pdf-12mb-6-paginas.pdf",
+    "mb": 12.9,
+    "unidades": 6,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "pptx-12mb-6-diapositivas.pptx",
+    "mb": 12.9,
+    "unidades": 6,
+    "unidad": "diapositivas"
+  },
+  {
+    "archivo": "docx-12mb-6-paginas.docx",
+    "mb": 12.7,
+    "unidades": 6,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "xlsx-12mb-209715-filas.xlsx",
+    "mb": 11.9,
+    "unidades": 209715,
+    "unidad": "filas"
+  },
+  {
+    "archivo": "pdf-20mb-9-paginas.pdf",
+    "mb": 19.3,
+    "unidades": 9,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "pptx-20mb-9-diapositivas.pptx",
+    "mb": 19.4,
+    "unidades": 9,
+    "unidad": "diapositivas"
+  },
+  {
+    "archivo": "docx-20mb-9-paginas.docx",
+    "mb": 19,
+    "unidades": 9,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "xlsx-20mb-349525-filas.xlsx",
+    "mb": 19.8,
+    "unidades": 349525,
+    "unidad": "filas"
+  },
+  {
+    "archivo": "pdf-25mb-12-paginas.pdf",
+    "mb": 25.6,
+    "unidades": 12,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "pptx-25mb-12-diapositivas.pptx",
+    "mb": 25.6,
+    "unidades": 12,
+    "unidad": "diapositivas"
+  },
+  {
+    "archivo": "docx-25mb-12-paginas.docx",
+    "mb": 25.4,
+    "unidades": 12,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "xlsx-25mb-436907-filas.xlsx",
+    "mb": 24.8,
+    "unidades": 436907,
+    "unidad": "filas"
+  },
+  {
+    "archivo": "pdf-30mb-14-paginas.pdf",
+    "mb": 29.9,
+    "unidades": 14,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "pptx-30mb-14-diapositivas.pptx",
+    "mb": 30,
+    "unidades": 14,
+    "unidad": "diapositivas"
+  },
+  {
+    "archivo": "docx-30mb-14-paginas.docx",
+    "mb": 29.7,
+    "unidades": 14,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "xlsx-30mb-524288-filas.xlsx",
+    "mb": 29.7,
+    "unidades": 524288,
+    "unidad": "filas"
+  },
+  {
+    "archivo": "pdf-35mb-16-paginas.pdf",
+    "mb": 34.1,
+    "unidades": 16,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "pptx-35mb-16-diapositivas.pptx",
+    "mb": 34.2,
+    "unidades": 16,
+    "unidad": "diapositivas"
+  },
+  {
+    "archivo": "docx-35mb-16-paginas.docx",
+    "mb": 33.7,
+    "unidades": 16,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "xlsx-35mb-611669-filas.xlsx",
+    "mb": 34.7,
+    "unidades": 611669,
+    "unidad": "filas"
+  },
+  {
+    "archivo": "pdf-40mb-19-paginas.pdf",
+    "mb": 40.5,
+    "unidades": 19,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "pptx-40mb-19-diapositivas.pptx",
+    "mb": 40.7,
+    "unidades": 19,
+    "unidad": "diapositivas"
+  },
+  {
+    "archivo": "docx-40mb-19-paginas.docx",
+    "mb": 40,
+    "unidades": 19,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "xlsx-40mb-699051-filas.xlsx",
+    "mb": 39.6,
+    "unidades": 699051,
+    "unidad": "filas"
+  },
+  {
+    "archivo": "pdf-45mb-21-paginas.pdf",
+    "mb": 44.9,
+    "unidades": 21,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "pptx-45mb-21-diapositivas.pptx",
+    "mb": 44.9,
+    "unidades": 21,
+    "unidad": "diapositivas"
+  },
+  {
+    "archivo": "docx-45mb-21-paginas.docx",
+    "mb": 44.6,
+    "unidades": 21,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "xlsx-45mb-786432-filas.xlsx",
+    "mb": 44.6,
+    "unidades": 786432,
+    "unidad": "filas"
+  },
+  {
+    "archivo": "pdf-50mb-23-paginas.pdf",
+    "mb": 49,
+    "unidades": 23,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "pptx-50mb-23-diapositivas.pptx",
+    "mb": 49.4,
+    "unidades": 23,
+    "unidad": "diapositivas"
+  },
+  {
+    "archivo": "docx-50mb-23-paginas.docx",
+    "mb": 48.4,
+    "unidades": 23,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "xlsx-50mb-873813-filas.xlsx",
+    "mb": 49.5,
+    "unidades": 873813,
+    "unidad": "filas"
+  }
+]
