@@ -190,5 +190,17 @@
     "mb": 49.5,
     "unidades": 873813,
     "unidad": "filas"
+  },
+  {
+    "archivo": "pdf-18mb-exacto-9-paginas.pdf",
+    "mb": 18,
+    "unidades": 9,
+    "unidad": "páginas"
+  },
+  {
+    "archivo": "pdf-19mb-exacto-9-paginas.pdf",
+    "mb": 19,
+    "unidades": 9,
+    "unidad": "páginas"
   }
 ]
