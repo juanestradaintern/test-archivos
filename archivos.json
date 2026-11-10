@@ -202,5 +202,11 @@
     "mb": 19,
     "unidades": 9,
     "unidad": "páginas"
+  },
+  {
+    "archivo": "pdf-25mb-exacto-12-paginas.pdf",
+    "mb": 25,
+    "unidades": 12,
+    "unidad": "páginas"
   }
 ]
